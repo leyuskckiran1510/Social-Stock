@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/leyuskckiran1510/Social-Stock">
-    <img src="./logo/white.png" alt="Logo" width="80" height="80">
+    <img src="./logo/white.png" alt="Logo" width="330" height="196">
   </a>
 
   <h1 align="center">Social-Stock</h1>
